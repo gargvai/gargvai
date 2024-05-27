@@ -5,12 +5,6 @@ layout: page
     
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Justify Text Example</title>
-</head>
-<body>
 
 <p style="text-align: justify;">I am a postdoctoral researcher at the UC3M-Santander Big Data Institute in Getafe, Madrid. My academic journey began with a Master’s degree in Information and Communication Technology from Universitat Politècnica de Catalunya in Barcelona, completed in 2012. This was followed by a Doctorate in Signal Processing from the University of Cantabria in Santander, which I earned in 2021.</p>
 
