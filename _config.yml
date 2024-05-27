@@ -34,8 +34,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
-#twitter: mytwitter
+google: citations?hl=es&user=ZkmhZ0oAAAAJ
+researchgate: Vaibhav-Garg-5
 instagram: iamgargvaibhav
 linkedin: vaibhav-garg-ph-d-10b0a818
 github: gargvai
